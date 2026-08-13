@@ -207,12 +207,6 @@ Proyecto privado - UTEQ
 
 ---
 
-## 📞 Contacto
-
-**Desarrollador**: Jordy Zamora Barriga  
-**Email**: jzamorab6@uteq.edu.ec  
-**Institución**: UTEQ (Universidad Técnica Estatal de Quevedo)
-
 ---
 
 **Estado del Proyecto**: 🚀 En desarrollo activo  
