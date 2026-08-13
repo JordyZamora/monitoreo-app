@@ -1,6 +1,6 @@
 :root {
   font-family: Inter, system-ui, sans-serif;
-  color: #15342f;
+  color: #000000;
   background: #f4f8f6;
 }
 
@@ -29,8 +29,8 @@ body { margin: 0; }
   justify-content: center;
 }
 .centered { min-height: 60vh; display: grid; place-content: center; text-align: center; }
-.eyebrow { color: #008d68; font-weight: 700; margin-bottom: .3rem; }
-.status { color: #087f5b; font-weight: 700; text-transform: capitalize; }
+.eyebrow { color: #000000; font-weight: 700; margin-bottom: .3rem; }
+.status { color: #000000; font-weight: 700; text-transform: capitalize; }
 
 .cards {
   display: grid;
@@ -49,16 +49,16 @@ body { margin: 0; }
 
 .sensor-card { display: flex; gap: 1rem; align-items: center; padding: 1.25rem; }
 .sensor-card__icon { font-size: 2rem; }
-.sensor-card p { margin: 0 0 .4rem; color: #5c706a; }
+.sensor-card p { margin: 0 0 .4rem; color: #000000; }
 .sensor-card strong { font-size: 1.7rem; }
-.updated { color: #5c706a; }
-.sensor-id { color: #72827d; font-size: .9rem; }
+.updated { color: #000000; }
+.sensor-id { color: #000000; font-size: .9rem; }
 
 .table-panel { padding: 1.25rem; margin-bottom: 1.25rem; text-align: left; }
 .table-scroll { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; }
-th, td { padding: .9rem; text-align: left; border-bottom: 1px solid #e6eeeb; }
-th { color: #48635b; }
+th, td { padding: .9rem; text-align: left; border-bottom: 1px solid #e6eeeb; color: #000000; }
+th { color: #000000; }
 
 .locations { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
 .location-card {
