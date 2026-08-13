@@ -2,7 +2,7 @@
 
 Sistema de monitoreo de sensores en tiempo real desarrollado con React + Vite. Permite visualizar datos de sensores distribuidos en diferentes ubicaciones geográficas.
 
-![Application Screenshot](./screenshot.jpe)
+![Application Screenshot](./screenshot.png)
 
 ## 📋 Descripción del Proyecto
 
